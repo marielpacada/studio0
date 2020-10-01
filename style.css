@@ -1,3 +1,20 @@
 body {
 	background-color: lightblue;
 }
+h1 { 
+	color: dodgerblue;
+  }
+  
+  h3 { 
+	color: deepskyblue;
+  }
+  
+  ul li b { 
+	color: mediumslateblue;
+  }
+  
+  #tumblr { 
+	background: -webkit-linear-gradient(#00BFFF, #7B68EE);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+  }
